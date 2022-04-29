@@ -1,0 +1,5 @@
+logic kegiatan object user
+
+
+buat coding untuk register
+tambah pengecek email/password

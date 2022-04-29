@@ -1,1 +1,1 @@
-coding untuk controller barang
+coding untuk controller barang (seluruh logic wajib diletakkan di usecase)

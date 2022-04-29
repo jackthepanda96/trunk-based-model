@@ -2,3 +2,7 @@ code untuk akses database user
 
 buat akses database untuk login
 select database untuk pengecekan error
+
+buat coding untuk akses register
+buat select untuk cek email password
+

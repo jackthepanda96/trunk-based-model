@@ -1,4 +1,4 @@
-coding untuk controller user
+coding untuk controller user (seluruh logic wajib diletakkan di usecase)
 
 buat controller login
 buat pengecekan error untuk user yang tidak terdaftar
