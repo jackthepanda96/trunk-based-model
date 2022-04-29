@@ -1,3 +1,4 @@
 coding untuk controller user
 
 buat controller login
+buat pengecekan error untuk user yang tidak terdaftar
