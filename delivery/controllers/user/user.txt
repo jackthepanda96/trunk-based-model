@@ -1,3 +1,4 @@
 coding untuk controller user
 
 buat coding untuk register
+tambah pengecek email/password
