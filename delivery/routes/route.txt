@@ -1,1 +1,3 @@
 coding untuk routing API
+
+tambah routing untuk register
