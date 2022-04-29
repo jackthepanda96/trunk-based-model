@@ -1,1 +1,1 @@
-coding untuk controller user
+coding untuk controller user (seluruh logic wajib diletakkan di usecase)
